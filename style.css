@@ -1,0 +1,35 @@
+body{
+    margin: 0 auto;
+    padding: 50px;
+    width: 56%;
+    background: #fbfbfa;
+    color: white;
+}
+h1{
+text-align: center;
+}
+h2{
+color:black;
+}
+p{
+padding: 3px;
+    margin: 0;
+}
+
+form{
+
+    margin-top: 100px;
+    margin-left: 530px;
+}
+
+.main{
+background:black;
+padding:15px;
+position:relative;
+height: 670px;
+    
+}
+.main_command{
+    border: 3px solid #fff;
+height: 150px;
+}
