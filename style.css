@@ -18,8 +18,7 @@ padding: 3px;
 }
 
 form{
-
-    margin-top: 100px;
+    margin-top: 57px;
     margin-left: 530px;
 }
 
@@ -33,4 +32,7 @@ height: 670px;
 .main_command{
     border: 3px solid #fff;
 height: 150px;
+}
+.opening{
+
 }

@@ -1,0 +1,2284 @@
+[24-Aug-2020 19:20:57 Asia/Tokyo] PHP Fatal error:  Class History contains 1 abstract method and must therefore be declared abstract or implement the remaining methods (HistoryInterface::clear) in /Applications/MAMP/htdocs/brack_game/index.php on line 86
+[24-Aug-2020 20:10:08 Asia/Tokyo] PHP Notice:  Undefined index: enemy in /Applications/MAMP/htdocs/brack_game/index.php on line 147
+[24-Aug-2020 20:10:08 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/brack_game/index.php:147
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 147
+[24-Aug-2020 20:10:38 Asia/Tokyo] PHP Notice:  Undefined index: enemy in /Applications/MAMP/htdocs/brack_game/index.php on line 147
+[24-Aug-2020 20:10:38 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/brack_game/index.php:147
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 147
+[24-Aug-2020 20:12:58 Asia/Tokyo] PHP Notice:  Undefined index: enemy in /Applications/MAMP/htdocs/brack_game/index.php on line 147
+[24-Aug-2020 20:12:58 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/brack_game/index.php:147
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 147
+[24-Aug-2020 20:13:08 Asia/Tokyo] PHP Notice:  Undefined index: test in /Applications/MAMP/htdocs/brack_game/index.php on line 154
+[24-Aug-2020 20:13:08 Asia/Tokyo] PHP Notice:  Undefined index: test in /Applications/MAMP/htdocs/brack_game/index.php on line 156
+[24-Aug-2020 20:13:08 Asia/Tokyo] PHP Notice:  Undefined index: test in /Applications/MAMP/htdocs/brack_game/index.php on line 158
+[24-Aug-2020 20:14:11 Asia/Tokyo] PHP Notice:  Undefined index: enemy in /Applications/MAMP/htdocs/brack_game/index.php on line 147
+[24-Aug-2020 20:14:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/brack_game/index.php:147
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 147
+[24-Aug-2020 20:14:23 Asia/Tokyo] PHP Notice:  Undefined index: knockDownCount in /Applications/MAMP/htdocs/brack_game/index.php on line 154
+[24-Aug-2020 20:14:23 Asia/Tokyo] PHP Notice:  Undefined index: knockDownCount in /Applications/MAMP/htdocs/brack_game/index.php on line 156
+[24-Aug-2020 20:14:23 Asia/Tokyo] PHP Notice:  Undefined index: knockDownCount in /Applications/MAMP/htdocs/brack_game/index.php on line 158
+[24-Aug-2020 20:48:30 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 130
+[24-Aug-2020 20:48:30 Asia/Tokyo] デバッグ：$escapeFlg：
+[24-Aug-2020 20:48:30 Asia/Tokyo] POSTされた！
+[24-Aug-2020 20:48:33 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 130
+[24-Aug-2020 20:48:33 Asia/Tokyo] デバッグ：$escapeFlg：
+[24-Aug-2020 20:48:33 Asia/Tokyo] POSTされた！
+[24-Aug-2020 20:48:51 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 130
+[24-Aug-2020 20:48:51 Asia/Tokyo] デバッグ：$escapeFlg：
+[24-Aug-2020 20:48:51 Asia/Tokyo] POSTされた！
+[24-Aug-2020 20:48:52 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 130
+[24-Aug-2020 20:48:52 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 20:48:52 Asia/Tokyo] POSTされた！
+[24-Aug-2020 20:48:52 Asia/Tokyo] PHP Notice:  Undefined offset: 4 in /Applications/MAMP/htdocs/brack_game/index.php on line 108
+[24-Aug-2020 20:48:52 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 109
+[24-Aug-2020 20:48:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:166
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 166
+[24-Aug-2020 20:49:40 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 130
+[24-Aug-2020 20:49:40 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 20:49:40 Asia/Tokyo] POSTされた！
+[24-Aug-2020 20:49:40 Asia/Tokyo] PHP Notice:  Undefined offset: 4 in /Applications/MAMP/htdocs/brack_game/index.php on line 108
+[24-Aug-2020 20:49:40 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 109
+[24-Aug-2020 20:49:40 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:166
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 166
+[24-Aug-2020 20:49:46 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 130
+[24-Aug-2020 20:49:46 Asia/Tokyo] デバッグ：$escapeFlg：
+[24-Aug-2020 20:49:46 Asia/Tokyo] POSTされた！
+[24-Aug-2020 20:49:46 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:166
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 166
+[24-Aug-2020 20:49:49 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:166
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 166
+[24-Aug-2020 20:49:52 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:166
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 166
+[24-Aug-2020 20:51:12 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:166
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 166
+[24-Aug-2020 20:57:25 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 167
+[24-Aug-2020 20:58:55 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 167
+[24-Aug-2020 21:01:57 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:167
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 167
+[24-Aug-2020 21:06:17 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 170
+[24-Aug-2020 21:07:39 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getImg() on null in /Applications/MAMP/htdocs/brack_game/index.php:171
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 171
+[24-Aug-2020 21:08:26 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:169
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 169
+[24-Aug-2020 21:09:33 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 170
+[24-Aug-2020 21:09:54 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 170
+[24-Aug-2020 21:12:01 Asia/Tokyo] デバッグ：$$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:12:01 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:171
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 171
+[24-Aug-2020 21:12:30 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:13:56 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:14:07 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:15:05 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:16:01 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:16:30 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:17:27 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:17:52 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:17:52 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:17:52 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:17:52 Asia/Tokyo] PHP Notice:  Undefined offset: 3 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:17:52 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:17:52 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:17:52 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+)
+
+[24-Aug-2020 21:18:11 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:18:11 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:18:11 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:18:11 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:18:11 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:18:11 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[24-Aug-2020 21:18:13 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:18:13 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:18:13 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:18:13 Asia/Tokyo] PHP Notice:  Undefined offset: 5 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:18:13 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:18:13 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:18:13 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+)
+
+[24-Aug-2020 21:18:24 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:18:24 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:18:24 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:18:24 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:18:24 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:18:24 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[24-Aug-2020 21:27:33 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+)
+
+[24-Aug-2020 21:27:35 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:27:35 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:27:35 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:27:35 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:27:35 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:27:35 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:27:35 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+)
+
+[24-Aug-2020 21:27:35 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:172
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 172
+[24-Aug-2020 21:28:08 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:28:08 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:28:08 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:28:08 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:28:08 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:28:08 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:28:08 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:28:11 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:28:11 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:28:11 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:28:11 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:28:11 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:28:11 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[24-Aug-2020 21:28:13 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:28:13 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:28:13 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:28:13 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:28:13 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:28:13 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[24-Aug-2020 21:28:57 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:28:57 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:28:57 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:28:57 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:28:57 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:28:57 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+)
+
+[24-Aug-2020 21:28:59 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:28:59 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:28:59 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:28:59 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:28:59 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:28:59 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:28:59 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+)
+
+[24-Aug-2020 21:29:18 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+)
+
+[24-Aug-2020 21:29:20 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:29:20 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:29:20 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:29:20 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:29:20 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:29:20 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:29:20 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+)
+
+[24-Aug-2020 21:29:47 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 134
+[24-Aug-2020 21:29:47 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:29:47 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:29:47 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:29:47 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 112
+[24-Aug-2020 21:29:47 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:29:47 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+)
+
+[24-Aug-2020 21:29:47 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 173
+[24-Aug-2020 21:31:33 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:31:33 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:31:33 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:31:33 Asia/Tokyo] PHP Notice:  Undefined offset: 3 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:31:33 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:31:33 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:31:33 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:31:33 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:31:33 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 174
+[24-Aug-2020 21:31:57 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:31:57 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:31:57 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:31:57 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:31:57 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:31:57 Asia/Tokyo] デバッグ：ssenemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:31:57 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:06 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:06 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:06 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:06 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:06 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:06 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:06 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:07 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:07 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:07 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:07 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:32:07 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:07 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:32:07 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:09 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:09 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:09 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:09 Asia/Tokyo] PHP Notice:  Undefined offset: 7 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:32:09 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:32:09 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:09 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:32:09 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:09 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 174
+[24-Aug-2020 21:32:10 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:10 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:10 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:10 Asia/Tokyo] PHP Notice:  Undefined offset: 6 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:32:10 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:32:10 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:10 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:32:10 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:10 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 174
+[24-Aug-2020 21:32:11 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:11 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:11 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:11 Asia/Tokyo] PHP Notice:  Undefined offset: 5 in /Applications/MAMP/htdocs/brack_game/index.php on line 111
+[24-Aug-2020 21:32:11 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:32:11 Asia/Tokyo] PHP Notice:  Trying to get property 'getName' of non-object in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:11 Asia/Tokyo] デバッグ：enemy：
+[24-Aug-2020 21:32:11 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => 
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 174
+[24-Aug-2020 21:32:23 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:23 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:23 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:23 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:32:23 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:23 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:32:23 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:24 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:24 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:24 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:24 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:32:24 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:24 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:32:24 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:25 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:25 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:25 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:25 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:25 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:25 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:25 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:26 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:26 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:26 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:26 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:26 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:26 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:26 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:27 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:27 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:27 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:27 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:27 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:27 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:27 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:38 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:38 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:38 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:38 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:38 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:38 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:32:38 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:32:39 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:32:39 Asia/Tokyo] デバッグ：$escapeFlg：1
+[24-Aug-2020 21:32:39 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:32:39 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:32:39 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:32:39 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:32:39 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:38:30 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:38:30 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:38:30 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:38:30 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:38:30 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:38:30 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:38:44 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:38:44 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:38:44 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:38:44 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:38:44 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:38:44 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:41:41 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:41:41 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:41:41 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:41:41 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:41:41 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:41:41 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:41:51 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:41:51 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:41:51 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:41:51 Asia/Tokyo] PHP Notice:  Undefined property: Enemy::$getName in /Applications/MAMP/htdocs/brack_game/index.php on line 113
+[24-Aug-2020 21:41:51 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:41:51 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>が現れた！<br>
+)
+
+[24-Aug-2020 21:45:04 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:45:04 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:45:04 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:45:04 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:45:04 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+)
+
+[24-Aug-2020 21:49:15 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:49:15 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:49:15 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:49:15 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:49:15 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[24-Aug-2020 21:51:00 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:51:00 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:51:00 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:51:00 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:51:00 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+)
+
+[24-Aug-2020 21:51:12 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:51:12 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:51:12 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:51:12 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:51:12 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+)
+
+[24-Aug-2020 21:51:17 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:51:17 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:51:17 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:51:17 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:51:17 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[24-Aug-2020 21:51:28 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:51:28 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:51:28 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:51:28 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 21:51:28 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+)
+
+[24-Aug-2020 21:54:28 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:54:28 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:54:28 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:54:28 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 21:54:28 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[24-Aug-2020 21:58:42 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 21:58:42 Asia/Tokyo] POSTされた！
+[24-Aug-2020 21:58:42 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:58:42 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 21:58:42 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[24-Aug-2020 22:01:32 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 22:01:32 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:01:32 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 22:01:32 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 22:01:32 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[24-Aug-2020 22:01:38 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 22:01:38 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:01:38 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 22:01:38 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 22:01:38 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+)
+
+[24-Aug-2020 22:02:57 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 22:02:57 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:02:57 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 22:02:57 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/pawahara1.pbg.jpg
+    [name:protected] => パワハラ上司
+    [hp:protected] => 400
+    [attackMin:protected] => 40
+    [attackMax:protected] => 80
+)
+
+[24-Aug-2020 22:02:57 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+)
+
+[24-Aug-2020 22:03:21 Asia/Tokyo] PHP Warning:  Use of undefined constant attack - assumed 'attack' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/brack_game/index.php on line 135
+[24-Aug-2020 22:03:21 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:03:21 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 22:03:21 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 22:03:21 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+)
+
+[24-Aug-2020 22:05:20 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:05:20 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 22:05:20 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/sekuhara.jpeg
+    [name:protected] => セクハラ先輩
+    [hp:protected] => 200
+    [attackMin:protected] => -40
+    [attackMax:protected] => 10
+)
+
+[24-Aug-2020 22:05:20 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[24-Aug-2020 22:05:42 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:05:42 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 22:05:42 Asia/Tokyo] デバッグ：enemy：Enemy Object
+(
+    [img:protected] => img/morahara.jpeg
+    [name:protected] => モラハラ同期
+    [hp:protected] => 300
+    [attackMin:protected] => 30
+    [attackMax:protected] => 60
+)
+
+[24-Aug-2020 22:05:42 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+)
+
+[24-Aug-2020 22:07:12 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:07:12 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+)
+
+[24-Aug-2020 22:07:59 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:07:59 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[24-Aug-2020 22:08:24 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:08:24 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+)
+
+[24-Aug-2020 22:08:30 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:08:30 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+)
+
+[24-Aug-2020 22:12:28 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:12:28 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[24-Aug-2020 22:13:21 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:13:21 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+)
+
+[24-Aug-2020 22:13:22 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:13:22 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+)
+
+[24-Aug-2020 22:13:24 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:13:24 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+)
+
+[24-Aug-2020 22:15:16 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:15:16 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[24-Aug-2020 22:15:22 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:15:22 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+)
+
+[24-Aug-2020 22:15:26 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:15:26 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+)
+
+[24-Aug-2020 22:32:06 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>泥ハンドが現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+            [sex:protected] => 3
+        )
+
+    [monster] => __PHP_Incomplete_Class Object
+        (
+            [__PHP_Incomplete_Class_Name] => Monster
+            [img:protected] => img/monster07.png
+            [name:protected] => 泥ハンド
+            [hp:protected] => 120
+            [attackMin:protected] => 20
+            [attackMax:protected] => 30
+        )
+
+    [monsterflg] => 1
+    [test] => 1
+)
+
+[24-Aug-2020 22:32:06 Asia/Tokyo] PHP Notice:  Undefined index: enemy in /Applications/MAMP/htdocs/brack_game/index.php on line 190
+[24-Aug-2020 22:32:06 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:190
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 190
+[24-Aug-2020 22:33:07 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>泥ハンドが現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 勇者見習い
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+            [sex:protected] => 3
+        )
+
+    [monster] => __PHP_Incomplete_Class Object
+        (
+            [__PHP_Incomplete_Class_Name] => Monster
+            [img:protected] => img/monster07.png
+            [name:protected] => 泥ハンド
+            [hp:protected] => 120
+            [attackMin:protected] => 20
+            [attackMax:protected] => 30
+        )
+
+    [monsterflg] => 1
+    [test] => 1
+)
+
+[24-Aug-2020 22:33:49 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:33:49 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[24-Aug-2020 22:33:55 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:33:55 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[24-Aug-2020 22:33:56 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:33:56 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[24-Aug-2020 22:34:11 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+)
+
+[24-Aug-2020 22:34:13 Asia/Tokyo] POSTされた！
+[24-Aug-2020 22:34:13 Asia/Tokyo] デバッグ：$_SESSION：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
