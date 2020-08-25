@@ -44,11 +44,13 @@ abstract class Creature{
             $attackPoint = $attackPoint * 1.5;
             $attackPoint = (int)$attackPoint;
             History::set($this->getName().'のクリティカルヒット！');
+            Condition::set($this->getName().'のクリティカルヒット！');
         }
         $targetObj->setHp($targetObj->getHp()-$attackPoint);
-        History::set($attackPoint>'ポイントのダメージ');
+        History::set($attackPoint.'ポイントのダメージ');
+        Condition::set($this->getName().'ポイントダメージ');
     }
-
+ 
 }
 class Human extends Creature{
     public function __construct($name,$hp,$attackMin,$attackMax) {
@@ -78,9 +80,11 @@ class Enemy extends Creature{
         return $this->img;
     }
     public function sayCry(){
-        History:set($this->name.が叫ぶ);
+        History::set($this->name.'が叫ぶ');
+        Condition::set($this->name.'が叫ぶ');
     }
 }
+
 
 interface HistoryInterface{
     public static function set($str);
@@ -98,7 +102,22 @@ class History implements HistoryInterface{
         unset($_SESSION['history']);
     }
 }
+interface ConditionInterface{
+    public static function set($str);
+    public static function clear();
+}
 
+class Condition implements HistoryInterface{
+    public static function set($str){
+        // セッションhistoryが作られてなければ作る
+        if(empty($_SESSION['condition'])) $_SESSION['condition'] = '';
+        // 文字列をセッションhistoryへ格納
+        $_SESSION['condition'] .= $str.'<br>';
+    }
+    public static function clear(){
+        unset($_SESSION['condition']);
+    }
+}
 $human = new Human('主人公',500,40,120);
 $enemys[] = new Enemy( 'パワハラ上司',400,'img/pawahara1.pbg.jpg',40,80);
 
@@ -110,6 +129,7 @@ function createEnemy(){
 
     $enemy = $enemys[mt_rand(0,2)];
     History::set($enemy->getName().'が現れた！');
+    Condition::set($enemy->getName().'が現れた！');
     $_SESSION['enemy'] = $enemy;
 
 }
@@ -129,46 +149,83 @@ function gameOver(){
     $_SESSION = array();
 }
 
-$_SESSION = array();
+
+
+debug('$_SESSION11：'.print_r($_SESSION,true));
+
+
+
+Condition::clear();
 
 if(!empty($_POST)){
-$attackFlg = (!empty($_POST['attack'])) ? true :false;
-$nextFlg = (!empty($_POST['next'])) ? true : false;
-$escapeFlg = (!empty($_POST['escape']))?true:false;
-error_log('POSTされた！');
-    
-if($escapeFlg){
-init();
-    
-}else{
-    if($attackFlg){
-        debug('$attackFlgある？：'.print_r($attackFlg,true));
-        History::set($_SESSION['human']->getName().'の攻撃！');
-        $_SESSION['human']->attack($_SESSION['enemy']);
-        $_SESSION['enemy']->sayCry();
-        if($_SESSION['human']->getHp() <= 0){
-            gameOver();  }
-        else{
-            if($_SESSION['enemy']->getHp() <= 0){
+    debug('$_POST1：'.print_r($_POST,true));
+        $attackFlg = (!empty($_POST['attack'])) ? true :false;
+        $nextFlg = (!empty($_POST['next'])) ? true : false;
+    $escapeFlg = (!empty($_POST['escape']))?true:false;
+        error_log('POSTされた！');
+    debug('$_POST2：'.print_r($_POST,true));
+    $_SESSION['test']==1;
+            
+     if($escapeFlg){
+         init();
+         debug('脱出開始？：'.print_r($escapeFlg,true));
+     }else{
+         
 
-                History::set($_SESSION['human']->getName().'の攻撃！');
-                $_SESSION['human']->attack($_SESSION['enemy']);
-                $_SESSION['enemy']->sayCry();
-                $_SESSION['knockDownCount'] = $_SESSION['knockDownCount']+1;
-            }}}
-    else{ 
-        //逃げるを押した場合
-        History::set('逃げた！');
-        condition::set('逃げた！');
-        createMonster();
-    }}
-$_POST = array();
+         if($attackFlg){
+             debug('$attackFlgある？：'.print_r($attackFlg,true));
+             $_SESSION['test']=5;
+             // モンスターに攻撃を与える
+             History::set($_SESSION['human']->getName().'の攻撃！');
+             Condition::set($_SESSION['human']->getName().'の攻撃！');
+             $_SESSION['human']->attack($_SESSION['enemy']);
+             $_SESSION['enemy']->sayCry();
+             $_SESSION['test']=5;
+             
+             if($_SESSION['human']-> getHp() <= 0){
+             gameOver();  }
+
+             else{
+                 if($_SESSION['enemy']->getHp() <= 0) {
+                     $_SESSION['test'] = 3;
+                     
+                     // モンスターが攻撃をする
+                     $_SESSION['knockDownCount'] = $_SESSION['knockDownCount']+1;
+                 }}
+         }else{ if($nextFlg){
+             Condition::clear();
+             if($_SESSION['test']==3){
+             History::set($_SESSION['enemy']->getName().'を倒した！');
+             Condition::set($_SESSION['enemy']->getName().'を倒した！');
+         
+                 $_SESSION['test']=6;
+                 
+             }else
+                 if($_SESSION['test']==6){
+                     $_SESSION['test']=5;
+                     createEnemy();
+                     
+                 }else
+             if($_SESSION['test']==5){
+             History::set($_SESSION['enemy']->getName().'の攻撃！');
+                 Condition::set($_SESSION['enemy']->getName().'の攻撃！');
+             $_SESSION['enemy']->attack($_SESSION['human']);
+             $_SESSION['human']->sayCry();
+                 $_SESSION['test']=4;
+             }else if($_SESSION['test']==4){
+             unset($_SESSION['test']);
+             
+             }
+         }}
+        
+ }
+
 }
-$test=0;
-debug('$_SESSION：'.print_r($_SESSION,true));
+$_POST = array();
+debug('$_POST：'.print_r($_POST,true));
 
+debug('$_SESSION22：'.print_r($_SESSION,true));
 ?>
-
 
 <!DOCTYPE html>
 <html>
@@ -182,34 +239,49 @@ debug('$_SESSION：'.print_r($_SESSION,true));
   <body>
       <div class="main">
          
-         
           <?php if(empty($_SESSION)){ ?>
           <div class="opening"   style="height:500px;"></div>
           <form method="post">
               <input type="submit" name='escape' value='▶︎脱出する'>
           </form>
+          
           <?php }else{ ?>
+          
           <h1><?php echo $_SESSION['enemy']->getName().'が現れた!!'; ?></h1>
           <img src="<?php echo $_SESSION['enemy']->getImg();?>" style="padding-left:163px;">
-          <p style="font-size:14px; text-align:center;">モンスターのHP：<?php echo $_SESSION['human']->getHp(); ?></p>
+          <p style="font-size:14px; text-align:center;">モンスターのHP：<?php echo $_SESSION['enemy']->getHp(); ?></p>
           <p>脱出まであと：<?php echo $_SESSION['knockDownCount'];  ?>/5人</p>
-   <p>HP：<?php ?>/500</p>
-   <div class="main_command">
-       <p>  <?php echo (!empty($_SESSION['history'])) ? $_SESSION['history'] : ''; ?></p>
-   <form action="post">
-    
-     
-       <input type="submit" name='attack' value='▶︎攻撃する'>
-      
-       <input type="submit" name='escape' value='▶︎逃げる'>
-       <?php if( ( $test==5)){ ?>
+          <p>HP：<?php echo $_SESSION['human']->getHp(); ?>/500</p>
+          
+          
+          <div class="main_command">
+              <p class='messeage'>  <?php echo (!empty($_SESSION['condition'])) ? $_SESSION['condition'] : ''; ?></p>
+          
+          
+              <form method="post">
+                  <?php if(empty($_SESSION['test'])){ ?>
+              <input type="submit" name="attack" value="▶︎攻撃する">
+              <input type="submit" name="nigeru" value="▶︎逃げる">
+              <input type="submit" name="escape" value="▶︎リセット">
+                  <?php $_SESSION['test']=0; }  ?>
+       <?php if($_SESSION['test']==5){ ?>
+       
        <input type="submit" name='next' value='▶︎次へ'> <?php }  ?>
+        <?php if($_SESSION['test']==4){ ?>
+        <input type="submit" name='next' value='▶︎次へ'> <?php }  ?>
+                  <?php if($_SESSION['test']==6){ ?>
+                  <input type="submit" name='next' value='▶︎次へ'> <?php }  ?>
+                  <?php if($_SESSION['test']==3){ ?>
+                  <input type="submit" name='next' value='▶︎次へ'> <?php }  ?>
    </form>
+      
        <?php }  ?>
+       
        <div style="position:absolute; right:-350px; top:0; color:black; width: 300px;">
            <p><?php echo (!empty($_SESSION['history'])) ? $_SESSION['history'] : ''; ?></p>
        </div>
-          </div>
+         
+                  </div>
       </div>
-  </body>
+          </body>
 </html>

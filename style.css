@@ -14,12 +14,24 @@ color:black;
 }
 p{
 padding: 3px;
-    margin: 0;
+    margin: 0px;
+ 
+
+}
+
+.messeage{
+    width: 400px;
+    height: 250px;
 }
 
 form{
-    margin-top: 57px;
-    margin-left: 530px;
+    width: 255px;
+    height: 81px;
+
+    position: relative;
+    left: 526px;
+    top: -250px;
+
 }
 
 .main{
@@ -32,7 +44,12 @@ height: 670px;
 .main_command{
     border: 3px solid #fff;
 height: 150px;
+
 }
 .opening{
 
+}
+input[type="submit"]{
+padding: 10px;
+    margin: 14px 0px 8px 20px;
 }
