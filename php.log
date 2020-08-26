@@ -25991,3 +25991,2367 @@ Stack trace:
 
 )
 
+[26-Aug-2020 10:44:12 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+)
+
+[26-Aug-2020 10:44:12 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎リセット
+)
+
+[26-Aug-2020 10:44:12 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:12 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎リセット
+)
+
+[26-Aug-2020 10:44:12 Asia/Tokyo] PHP Notice:  Undefined index: test in /Applications/MAMP/htdocs/brack_game/index.php on line 167
+[26-Aug-2020 10:44:12 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 10:44:12 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:12 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => パワハラ上司が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 10:44:14 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => パワハラ上司が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:44:14 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:14 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:14 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:14 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:44:14 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:14 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 312
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:18 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 312
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:18 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:18 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:18 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:18 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:18 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 446
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 312
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:19 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 446
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 312
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:19 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:19 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:19 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:19 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:19 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 446
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 312
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 10:44:20 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 446
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 312
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:44:20 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:20 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:20 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:20 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:44:20 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:20 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 446
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 246
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 446
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 246
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 395
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 246
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 395
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 246
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:22 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 395
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 246
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 10:44:23 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 395
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 246
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:44:23 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:23 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:23 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:23 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:44:23 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:23 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 395
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 133
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:23 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 395
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 133
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:23 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:23 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:24 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:24 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:24 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 314
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 133
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:24 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 314
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 133
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:24 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:24 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:24 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:24 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:24 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 314
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 133
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 314
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 133
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 314
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 50
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 314
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 50
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:25 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 50
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:26 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 50
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:26 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:26 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:26 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:26 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:26 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 50
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 10:44:50 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 50
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:44:50 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:50 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:50 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:50 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:44:50 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:50 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => -1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 3
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:54 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => -1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 3
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:44:54 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:54 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:54 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:54 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:54 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => -1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 6
+    [condition] => パワハラ上司を倒した！<br>
+)
+
+[26-Aug-2020 10:44:55 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => -1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 6
+    [condition] => パワハラ上司を倒した！<br>
+)
+
+[26-Aug-2020 10:44:55 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:55 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:55 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:55 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:55 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => セクハラ先輩が現れた！<br>
+)
+
+[26-Aug-2020 10:44:57 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 242
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => セクハラ先輩が現れた！<br>
+)
+
+[26-Aug-2020 10:44:57 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:57 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:57 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:57 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:57 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 277
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>セクハラ先輩ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 277
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>セクハラ先輩ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 277
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 277
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:44:58 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 277
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 102
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 277
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 102
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 275
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 102
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>セクハラ先輩ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 275
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 102
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>セクハラ先輩ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:00 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 275
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 102
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 10:45:01 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 275
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 102
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:45:01 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:45:01 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:01 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:45:01 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:45:01 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:01 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 275
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 62
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:02 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 275
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 62
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:02 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:02 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:02 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:02 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:02 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 62
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>セクハラ先輩ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:03 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 62
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>セクハラ先輩ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:03 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:03 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:03 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:03 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:03 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 62
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 10:45:12 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 62
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:45:12 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:45:12 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:12 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:45:12 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:45:12 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:12 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -50
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 3
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -50
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 3
+    [condition] => 主人公の攻撃！<br>主人公ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -50
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 6
+    [condition] => セクハラ先輩を倒した！<br>
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -50
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 6
+    [condition] => セクハラ先輩を倒した！<br>
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:14 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => パワハラ上司が現れた！<br>
+)
+
+[26-Aug-2020 10:45:15 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 267
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => パワハラ上司が現れた！<br>
+)
+
+[26-Aug-2020 10:45:15 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:15 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:15 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:15 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:15 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 213
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:16 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 213
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:16 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:16 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:16 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:16 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:16 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 213
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 10:45:46 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 213
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:45:46 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:46 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:46 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:46 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:46 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 213
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:45:48 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 213
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:45:48 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:45:48 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:48 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:45:48 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:45:48 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:48 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 213
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 286
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>114ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 213
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 286
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>114ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 138
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 286
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>75ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 138
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 286
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>75ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:50 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 138
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 286
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 138
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 286
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 138
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 203
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>83ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 138
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 203
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>83ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:51 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>43ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 95
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 203
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>43ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:52 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>43ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 95
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 203
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>43ポイントダメージ<br>
+)
+
+[26-Aug-2020 10:45:52 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:52 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:45:52 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 10:45:52 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:45:52 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>43ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 95
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 203
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 10:55:49 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>88ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>66ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>51ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>81ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>72ポイントのダメージ<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>98ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>40ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>8ポイントのダメージ<br>主人公の攻撃！<br>112ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>パワハラ上司が現れた！<br>パワハラ上司の攻撃！<br>54ポイントのダメージ<br>主人公の攻撃！<br>114ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>75ポイントのダメージ<br>主人公の攻撃！<br>83ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>43ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 95
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 203
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 10:55:49 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎リセット
+)
+
+[26-Aug-2020 10:55:49 Asia/Tokyo] POSTされた！
+[26-Aug-2020 10:55:49 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎リセット
+)
+
+[26-Aug-2020 10:55:49 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 10:55:49 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 10:55:49 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 500
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [condition] => モラハラ同期が現れた！<br>
+)
+

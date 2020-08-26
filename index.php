@@ -48,7 +48,7 @@ abstract class Creature{
         }
         $targetObj->setHp($targetObj->getHp()-$attackPoint);
         History::set($attackPoint.'ポイントのダメージ');
-        Condition::set($this->getName().'ポイントダメージ');
+        Condition::set($attackPoint.'ポイントダメージ');
     }
  
 }
@@ -147,6 +147,7 @@ function init(){
 }
 function gameOver(){
     $_SESSION = array();
+    
 }
 
 
