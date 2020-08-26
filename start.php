@@ -62,7 +62,7 @@ $_SESSION= array();
             <h3>メンタル弱々くんの</h3>
             <h1>ブラック企業からの脱出</h1>
             </div>
-            <div class="btn">
+            <div class="btnn">
                 <a href="index.php">▶︎スタート</a>
             </div>
         </div>

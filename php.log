@@ -48271,3 +48271,3882 @@ Stack trace:
 
 )
 
+[26-Aug-2020 13:01:51 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:01:51 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:01:51 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:01:51 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:01:51 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:01:51 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:01:51 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>106ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 294
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>106ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>106ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 294
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>106ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>76ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -71
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 294
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>76ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>106ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>76ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -71
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 294
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:01:52 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>106ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>76ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -71
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 294
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 13:01:53 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:01:53 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:01:53 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>106ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>76ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -71
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 294
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:01:53 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:01:53 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:01:53 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:01:53 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 1
+)
+
+[26-Aug-2020 13:03:17 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:03:17 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:03:18 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:03:18 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:03:18 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:03:18 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:03:18 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:03:18 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:03:18 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => モラハラ同期が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>93ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 207
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>93ポイントダメージ<br>モラハラ同期が叫ぶ<br>
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>93ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 207
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:03:30 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>93ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>51ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -46
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 207
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+    [condition] => モラハラ同期の攻撃！<br>51ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:03:31 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:03:31 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:03:31 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>93ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>51ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -46
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 207
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:03:31 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:03:31 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:03:31 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>93ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>51ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -46
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 207
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:03:32 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:03:32 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:03:32 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>93ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>51ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -46
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 207
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:03:32 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:03:32 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:03:32 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:03:32 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 1
+)
+
+[26-Aug-2020 13:03:38 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:03:38 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:04:08 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:04:08 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:04:10 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:04:10 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:04:10 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:04:10 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:04:10 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:04:10 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:04:10 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => モラハラ同期が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>52ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 248
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>52ポイントダメージ<br>モラハラ同期が叫ぶ<br>
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>52ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 248
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:04:11 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>52ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>48ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -43
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 248
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+    [condition] => モラハラ同期の攻撃！<br>48ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>52ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>48ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -43
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 248
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>52ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>48ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -43
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 248
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>52ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>48ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -43
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 248
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:04:12 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 1
+)
+
+[26-Aug-2020 13:06:46 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:46 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:06:48 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:06:48 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:06:48 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:06:48 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:06:48 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:06:48 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:48 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => セクハラ先輩が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 13:06:50 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:06:50 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:06:50 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:06:50 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:06:50 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:06:50 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:50 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 123
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>77ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 13:06:51 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:06:51 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:06:51 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 123
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:06:51 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:06:51 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:51 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 2
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 123
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>3ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:06:53 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:06:53 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:06:53 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 2
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 123
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:06:53 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:06:53 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:53 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 2
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 123
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 13:06:55 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:06:55 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:06:55 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 2
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 123
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:06:55 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:06:55 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:06:55 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:55 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 2
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 10
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>113ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 13:06:56 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:06:56 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:06:56 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 2
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 10
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:06:56 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:06:56 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:56 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 10
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>1ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:06:57 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:06:57 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:06:57 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 10
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:06:57 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:06:57 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:57 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 10
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 13:06:59 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:06:59 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:06:59 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 10
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:06:59 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:06:59 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:06:59 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:06:59 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -47
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 3
+    [condition] => 主人公の攻撃！<br>57ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 13:07:00 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:00 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:00 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -47
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 3
+)
+
+[26-Aug-2020 13:07:00 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:00 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:00 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -47
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 6
+    [condition] => セクハラ先輩を倒した！<br>
+)
+
+[26-Aug-2020 13:07:01 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:01 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:01 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -47
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 6
+)
+
+[26-Aug-2020 13:07:01 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:01 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:01 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩が現れた！<br>
+)
+
+[26-Aug-2020 13:07:02 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:02 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:02 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:07:02 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:02 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:02 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 13:07:04 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:04 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:04 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:07:04 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:04 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:07:04 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:04 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 135
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>65ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 13:07:05 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:05 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:05 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 1
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 135
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:07:05 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:05 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:05 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 10
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 135
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>-9ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:07:08 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:08 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:08 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 10
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 135
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:07:08 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:08 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:08 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 10
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 135
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 13:07:11 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:11 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:11 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 10
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 135
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:07:11 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:11 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:07:11 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:11 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 10
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 68
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>67ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 10
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 68
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 68
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>-27ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 68
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 68
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>
+    [knockDownCount] => 1
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 68
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:12 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -110
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 3
+    [condition] => 主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -110
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 3
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -110
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 6
+    [condition] => セクハラ先輩を倒した！<br>
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -110
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 6
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+    [condition] => モラハラ同期が現れた！<br>
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:13 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:07:14 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:14 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:14 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:07:14 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:14 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:07:14 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:14 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>100ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 200
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>100ポイントダメージ<br>モラハラ同期が叫ぶ<br>
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>100ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 37
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 200
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>100ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>48ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -11
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 200
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+    [condition] => モラハラ同期の攻撃！<br>48ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>100ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>48ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -11
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 200
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:15 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>100ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>48ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -11
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 200
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:07:16 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:16 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:07:16 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>77ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>3ポイントのダメージ<br>主人公の攻撃！<br>113ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>1ポイントのダメージ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>主人公の攻撃！<br>65ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-9ポイントのダメージ<br>主人公の攻撃！<br>67ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-27ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>178ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>100ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>48ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -11
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 200
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:07:16 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:07:16 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:07:16 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:07:16 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 1
+)
+
+[26-Aug-2020 13:08:16 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:08:16 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:08:18 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:08:18 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:08:18 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:08:18 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:08:18 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:08:18 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:08:18 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => モラハラ同期が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:08:23 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:08:23 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:08:23 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:08:23 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:08:23 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:08:23 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:08:23 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>73ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 227
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>73ポイントダメージ<br>モラハラ同期が叫ぶ<br>
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>73ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 227
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>73ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>32ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -27
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 227
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+    [condition] => モラハラ同期の攻撃！<br>32ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>73ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>32ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -27
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 227
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:08:24 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>73ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>32ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -27
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 227
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:08:25 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:08:25 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:08:25 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>73ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>32ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -27
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 227
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:08:25 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:08:25 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:08:25 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:08:25 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 1
+)
+
+[26-Aug-2020 13:16:13 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:16:13 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:16:23 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:16:23 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:16:23 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:16:23 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:16:23 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:16:23 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:16:23 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => パワハラ上司が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 13:16:35 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:16:35 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:16:35 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:16:35 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:16:35 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:16:35 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:16:35 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 349
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>51ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 13:16:36 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:16:36 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:16:36 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 349
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:16:36 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:16:36 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:16:36 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>57ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -52
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 349
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>57ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:16:37 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:16:37 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:16:37 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>57ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -52
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 349
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:16:37 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:16:37 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:16:37 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>51ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>57ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -52
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 349
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 13:18:46 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:18:46 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:18:46 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:18:46 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:18:46 Asia/Tokyo] PHP Notice:  Undefined index: test in /Applications/MAMP/htdocs/brack_game/index.php on line 205
+[26-Aug-2020 13:18:46 Asia/Tokyo] PHP Notice:  Undefined index: test in /Applications/MAMP/htdocs/brack_game/index.php on line 212
+[26-Aug-2020 13:18:46 Asia/Tokyo] PHP Notice:  Undefined index: test in /Applications/MAMP/htdocs/brack_game/index.php on line 218
+[26-Aug-2020 13:18:46 Asia/Tokyo] PHP Notice:  Undefined index: test in /Applications/MAMP/htdocs/brack_game/index.php on line 225
+[26-Aug-2020 13:18:46 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:18:46 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+)
+
+[26-Aug-2020 13:18:46 Asia/Tokyo] PHP Notice:  Undefined index: enemy in /Applications/MAMP/htdocs/brack_game/index.php on line 276
+[26-Aug-2020 13:18:46 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:276
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 276
+[26-Aug-2020 13:18:50 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:18:50 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:18:51 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:18:51 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:18:51 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:18:51 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:18:51 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:18:51 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:18:51 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => モラハラ同期が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:33:47 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [retry] => ▶︎もう一度
+)
+
+[26-Aug-2020 13:33:47 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:33:47 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:33:47 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [retry] => ▶︎もう一度
+)
+
+[26-Aug-2020 13:33:47 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:33:47 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:33:56 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:33:56 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:33:56 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:33:56 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:33:56 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:33:56 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:33:56 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>78ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 222
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>78ポイントダメージ<br>モラハラ同期が叫ぶ<br>
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>78ポイントのダメージ<br>モラハラ同期が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 222
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>78ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>モラハラ同期のクリティカルヒット！<br>84ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -79
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 222
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+    [condition] => モラハラ同期の攻撃！<br>モラハラ同期のクリティカルヒット！<br>84ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>78ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>モラハラ同期のクリティカルヒット！<br>84ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -79
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 222
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:33:57 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>78ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>モラハラ同期のクリティカルヒット！<br>84ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -79
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 222
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
+[26-Aug-2020 13:36:08 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:36:08 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:36:08 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:36:08 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:36:08 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:36:08 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:36:08 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => セクハラ先輩が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 13:38:12 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:38:12 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:38:12 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:38:12 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:38:12 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:38:12 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:38:12 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>セクハラ先輩が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => セクハラ先輩が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 200
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+)
+
+[26-Aug-2020 13:38:16 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:38:16 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:38:17 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:38:17 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:38:17 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:38:17 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[26-Aug-2020 13:38:17 Asia/Tokyo] デバッグ：脱出開始？：1
+[26-Aug-2020 13:38:17 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:38:17 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => パワハラ上司が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 400
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>79ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 321
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>79ポイントダメージ<br>パワハラ上司が叫ぶ<br>
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>79ポイントのダメージ<br>パワハラ上司が叫ぶ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 321
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 5
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>79ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>67ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -62
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 321
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+    [condition] => パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>67ポイントダメージ<br>
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 2
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>79ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>67ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -62
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 321
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 4
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>79ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>67ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -62
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 321
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+    [tess] => 1
+    [history] => 初期化します！<br>パワハラ上司が現れた！<br>主人公の攻撃！<br>79ポイントのダメージ<br>パワハラ上司が叫ぶ<br>パワハラ上司の攻撃！<br>パワハラ上司のクリティカルヒット！<br>67ポイントのダメージ<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => -62
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/pawahara1.pbg.jpg
+            [name:protected] => パワハラ上司
+            [hp:protected] => 321
+            [attackMin:protected] => 40
+            [attackMax:protected] => 80
+        )
+
+    [test] => 0
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[26-Aug-2020 13:38:19 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 1
+)
+
+[26-Aug-2020 13:38:54 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:38:54 Asia/Tokyo] POSTされた！
+[26-Aug-2020 13:38:54 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[26-Aug-2020 13:38:54 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[26-Aug-2020 13:38:54 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[26-Aug-2020 13:38:54 Asia/Tokyo] PHP Notice:  Undefined index: human in /Applications/MAMP/htdocs/brack_game/index.php on line 180
+[26-Aug-2020 13:38:54 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to a member function getName() on null in /Applications/MAMP/htdocs/brack_game/index.php:180
+Stack trace:
+#0 {main}
+  thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 180

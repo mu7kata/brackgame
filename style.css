@@ -39,6 +39,12 @@ padding: 3px;
     position: relative;
     left: 270px;
     top: 0px;
+    float: left;
+}
+#gameover_form2{
+float: right;
+    position: relative;
+    right: 257px;
 }
 
 .main{
@@ -68,4 +74,7 @@ padding: 10px;
 
 .gameover_title h3{
     text-align: center;
+}
+.form{
+
 }
