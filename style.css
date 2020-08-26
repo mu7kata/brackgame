@@ -24,14 +24,21 @@ padding: 3px;
     height: 250px;
 }
 
-form{
+.btn{
     width: 255px;
     height: 81px;
 
     position: relative;
     left: 526px;
     top: -250px;
+}
+#gameover_form{
+    width: 255px;
+    height: 81px;
 
+    position: relative;
+    left: 270px;
+    top: 0px;
 }
 
 .main{
@@ -52,4 +59,13 @@ height: 150px;
 input[type="submit"]{
 padding: 10px;
     margin: 14px 0px 8px 20px;
+}
+
+.gameover_title{
+    padding-top: 150px;
+    font-size: 32px;
+}
+
+.gameover_title h3{
+    text-align: center;
 }
