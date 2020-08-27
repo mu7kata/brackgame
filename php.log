@@ -52150,3 +52150,533 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /Applications/MAMP/htdocs/brack_game/index.php on line 180
+[27-Aug-2020 12:06:58 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[27-Aug-2020 12:06:58 Asia/Tokyo] POSTされた！
+[27-Aug-2020 12:06:58 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 402
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 154
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [gameover] => 4
+)
+
+[27-Aug-2020 12:06:58 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[27-Aug-2020 12:06:58 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[27-Aug-2020 12:06:58 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:06:58 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 402
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 97
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [gameover] => 0
+    [tess] => 2
+    [condition] => 主人公の攻撃！<br>57ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[27-Aug-2020 12:07:02 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[27-Aug-2020 12:07:02 Asia/Tokyo] POSTされた！
+[27-Aug-2020 12:07:02 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 402
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 97
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 5
+    [gameover] => 4
+    [tess] => 2
+)
+
+[27-Aug-2020 12:07:02 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[27-Aug-2020 12:07:02 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:07:02 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 415
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 97
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [gameover] => 0
+    [tess] => 2
+    [condition] => セクハラ先輩の攻撃！<br>-13ポイントダメージ<br>
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] POSTされた！
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 415
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 97
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [test] => 4
+    [gameover] => 4
+    [tess] => 2
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 415
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 97
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 0
+    [tess] => 1
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] POSTされた！
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 415
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 97
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 4
+    [tess] => 1
+    [test] => 0
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:07:03 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>主人公の攻撃！<br>91ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 415
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 6
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 0
+    [tess] => 2
+    [test] => 5
+    [condition] => 主人公の攻撃！<br>91ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] POSTされた！
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>主人公の攻撃！<br>91ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 415
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 6
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 4
+    [tess] => 2
+    [test] => 5
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>主人公の攻撃！<br>91ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 450
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 6
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 0
+    [tess] => 2
+    [test] => 4
+    [condition] => セクハラ先輩の攻撃！<br>-35ポイントダメージ<br>
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [next] => ▶︎次へ
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] POSTされた！
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>主人公の攻撃！<br>91ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 450
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 6
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 4
+    [tess] => 2
+    [test] => 4
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [next] => ▶︎次へ
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>主人公の攻撃！<br>91ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 450
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 6
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 0
+    [tess] => 1
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] POSTされた！
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>主人公の攻撃！<br>91ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>
+    [knockDownCount] => 2
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 450
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => 6
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 4
+    [tess] => 1
+    [test] => 0
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [attack] => ▶︎攻撃する
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$attackFlgある？：1
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:07:04 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>144ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>35ポイントのダメージ<br>主人公の攻撃！<br>76ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>38ポイントのダメージ<br>主人公の攻撃！<br>71ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期の攻撃！<br>58ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>モラハラ同期が叫ぶ<br>モラハラ同期を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-16ポイントのダメージ<br>主人公の攻撃！<br>118ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>2ポイントのダメージ<br>主人公の攻撃！<br>47ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>4ポイントのダメージ<br>主人公の攻撃！<br>主人公のクリティカルヒット！<br>156ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩を倒した！<br>セクハラ先輩が現れた！<br>セクハラ先輩の攻撃！<br>-23ポイントのダメージ<br>主人公の攻撃！<br>46ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>主人公の攻撃！<br>57ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-13ポイントのダメージ<br>主人公の攻撃！<br>91ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>セクハラ先輩の攻撃！<br>-35ポイントのダメージ<br>主人公の攻撃！<br>107ポイントのダメージ<br>セクハラ先輩が叫ぶ<br>
+    [knockDownCount] => 3
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 450
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/sekuhara.jpeg
+            [name:protected] => セクハラ先輩
+            [hp:protected] => -101
+            [attackMin:protected] => -40
+            [attackMax:protected] => 10
+        )
+
+    [gameover] => 0
+    [tess] => 2
+    [test] => 3
+    [condition] => 主人公の攻撃！<br>107ポイントダメージ<br>セクハラ先輩が叫ぶ<br>
+)
+
+[27-Aug-2020 12:07:07 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:07:07 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 4
+)
+
+[27-Aug-2020 12:07:09 Asia/Tokyo] デバッグ：$_POST1：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[27-Aug-2020 12:07:09 Asia/Tokyo] POSTされた！
+[27-Aug-2020 12:07:09 Asia/Tokyo] デバッグ：$_SESSION11：Array
+(
+    [gameover] => 4
+)
+
+[27-Aug-2020 12:07:09 Asia/Tokyo] デバッグ：$_POST2：Array
+(
+    [escape] => ▶︎脱出する
+)
+
+[27-Aug-2020 12:07:09 Asia/Tokyo] デバッグ：脱出開始？：1
+[27-Aug-2020 12:07:09 Asia/Tokyo] デバッグ：$_POST：Array
+(
+)
+
+[27-Aug-2020 12:07:09 Asia/Tokyo] デバッグ：$_SESSION22：Array
+(
+    [gameover] => 0
+    [tess] => 1
+    [history] => 初期化します！<br>モラハラ同期が現れた！<br>
+    [knockDownCount] => 0
+    [human] => Human Object
+        (
+            [name:protected] => 主人公
+            [hp:protected] => 5
+            [attackMin:protected] => 40
+            [attackMax:protected] => 120
+        )
+
+    [condition] => モラハラ同期が現れた！<br>
+    [enemy] => Enemy Object
+        (
+            [img:protected] => img/morahara.jpeg
+            [name:protected] => モラハラ同期
+            [hp:protected] => 300
+            [attackMin:protected] => 30
+            [attackMax:protected] => 60
+        )
+
+)
+
